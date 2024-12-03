@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HairSuggestionIPT</string>
+
+    <string-array name="face_shapes">
+        <item>Oval</item>
+        <item>Round</item>
+        <item>Square</item>
+        <item>Heart</item>
+        <item>Diamond</item>
+    </string-array>
+
+    <string-array name="age_groups">
+        <item>Teen</item>
+        <item>Adult</item>
+        <item>Senior</item>
+    </string-array>
+</resources>
